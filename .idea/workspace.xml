@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44d397f-79ce-4669-9083-cd56ded2bc6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Crew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/PA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Actor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Crew.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Director.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Movie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/PA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/company/Person.class" afterDir="false" />
-    </list>
+    <list default="true" id="b44d397f-79ce-4669-9083-cd56ded2bc6f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
